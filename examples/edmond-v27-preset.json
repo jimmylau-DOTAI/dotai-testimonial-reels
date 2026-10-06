@@ -1,0 +1,126 @@
+{
+  "case_id": "edmond-wong-ai-builder-testimonial",
+  "owner": "jimmy",
+  "saved": "2026-10-05",
+  "style_mode": "testimonial-workflow-reel",
+  "status": "local_rendered_review_required",
+  "baseline": "v27",
+  "canvas": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "final_frames": 2632,
+  "final_seconds": 87.73333333333333,
+  "global_speed": 1.1,
+  "hook_frames": 191,
+  "main_body_frames": 2131,
+  "ig_frames": 310,
+  "hyperframes": "0.8.123",
+  "audio_mode": "frozen unchanged v27 AAC; payload identical to v24",
+  "caption_file": "delivery/Edmond_Wong_Highlight_v27.srt",
+  "colour": {
+    "navy": "#03131F",
+    "white": "#F7FBFF",
+    "highlight": "#56BAFF"
+  },
+  "identity": {
+    "lines": [
+      "AI Builder",
+      "第一期畢業生",
+      "Edmond Wong"
+    ],
+    "source_seconds": [
+      0.08,
+      2.63
+    ],
+    "final_seconds": [
+      0.07272727272727272,
+      2.3909090909090907
+    ],
+    "box": [
+      78,
+      1260,
+      924,
+      268
+    ],
+    "font_px": [
+      30,
+      40,
+      72
+    ]
+  },
+  "main_layout": {
+    "logo": [
+      72,
+      76,
+      200
+    ],
+    "series": [
+      510,
+      72,
+      528
+    ],
+    "title_top": 234,
+    "workflow_rail_top": 340,
+    "screen": [
+      0,
+      410,
+      1080,
+      640
+    ],
+    "caption": [
+      0,
+      1050,
+      1080,
+      88
+    ],
+    "guest_top": 1138,
+    "footer_top": 1610
+  },
+  "ig_layout": {
+    "screen": [
+      0,
+      410,
+      1080,
+      560
+    ],
+    "caption": [
+      0,
+      970,
+      1080,
+      88
+    ],
+    "guest": [
+      0,
+      1058,
+      1080,
+      490
+    ],
+    "guest_object_position": "50% 85%"
+  },
+  "layout_authority": "Actual frozen HTML/CSS overrides take precedence over this summary; full-width proof and footer1610 are case-specific approved preview geometry, not a replacement for general platform safe areas.",
+  "speaker_claims": [
+    "1/10 time",
+    "20–30 times PowerPoint output"
+  ],
+  "claims_status": "student self-report; not a course performance guarantee; same-day Closing and actual IG publishing unverified",
+  "raw_source_recovery": "Full source recordings remain outside kit; staged selected footage inside kit is sufficient for remake. New selections require source-records and original paired A/B files.",
+  "hook_caption": {
+    "box": [
+      72,
+      1160,
+      936,
+      72
+    ],
+    "font_px": 44,
+    "cues": 4,
+    "above_complete_animation_group": true
+  },
+  "hook_stat": {
+    "top": 1270,
+    "scale": 0.86,
+    "reaction_top": 1620
+  },
+  "caption_cue_count": 46
+}
