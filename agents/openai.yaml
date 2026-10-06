@@ -1,4 +1,4 @@
 interface:
   display_name: "reels 好評剪輯 Skill"
-  short_description: "真實分享＋作品流程，剪成有字幕、動畫及音效的好評精華"
-  default_prompt: "用 $dotai-testimonial-reels，將今次客戶的原片剪成一條 90 秒精華。先交原聲稿、來源時間碼與畫面配搭，再按確認內容製作。"
+  short_description: "自動安裝、分析原片、配對畫面，加字幕動畫與音效並輸出好評精華"
+  default_prompt: "用 $dotai-testimonial-reels，將今次客戶的原片剪成一條 90 秒精華。自行安裝需要的本機依賴、分析逐字稿及素材、選擇來源支持的切點，直接輸出初剪 MP4、完整字幕、文字稿及可重做包。"

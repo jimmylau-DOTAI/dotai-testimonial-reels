@@ -1,11 +1,24 @@
 ---
 name: dotai-testimonial-reels
-description: "將學生或客戶的真實分享剪成 Reels：原聲選材、真人與螢幕同步、Before/After、完整字幕、HTML 動畫、音效及可重做素材包。適用於好評精華、畢業生分享及工作流程案例。"
+description: "分析本機原片並自動製作好評 Reels，附安裝、轉錄、同步、HTML 動畫、混音及 MP4 執行程式：原聲選材、真人與螢幕同步、Before/After、完整字幕、HTML 動畫、音效及可重做素材包。適用於好評精華、畢業生分享及工作流程案例。"
 ---
 
 # reels 好評剪輯 Skill
 
 將真實分享剪成一條看得見工作轉變的影片。先用原聲說清「之前怎樣做、現在得到甚麼」，再用真實作品證明；畫面、字幕與動畫圍繞同一個故事。
+
+## 直接執行，不只交建議
+
+這個 Skill 要在有本機檔案與命令工具的 AI 助手內使用。使用者要求剪片時，由你完成安裝、素材分析、語意選材、設定及渲染；不要要求使用者手填時間線或安裝其他 Skills。先讀 [安裝與執行](references/execution.md)。
+
+1. 在本 Skill 根目錄執行 `python3 scripts/run.py doctor`；缺 runtime 時自動安裝隔離依賴。Python 版本不符合時定位合適 interpreter，再續做。
+2. 用 `prepare` 分析來源；已有 SRT／VTT／JSON 就沿用，沒有才做本機 ASR。讀完整逐字稿及作品圖，核說話者、時鐘和證據。
+3. 有共同音訊可用 `sync` 算偏移候選；核共同事件，填 sources 的 offset／crop。不要從檔名或人臉相似度猜身份／同步。
+4. 根據真實原話組故事，自行填 `job.json` 的 segments、標題、流程與字幕；模板見 [job-template.json](assets/job-template.json)。對位缺乏必要證據才問使用者。
+5. 跑 `validate`，再 `render --keep-pairs`，直到真正 MP4、字幕、混音、配對素材及可移動重做包成功；交預覽與逐句稿。已要求製片就直接做本機初剪，不在每一步反覆索批。
+6. 完整聽校／成片驗收與技術檢查分開記錄。發布不在此工具功能內。
+
+AI 助手負責語意選材；CLI 不會用固定關鍵字取代故事。可先用 `python3 scripts/run.py demo --output /path/demo` 跑不含真人的完整測試。未有實際執行結果，不聲稱成片已好。
 
 ## 1. 確認素材及剪輯範圍
 
