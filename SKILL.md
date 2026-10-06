@@ -3,7 +3,7 @@ name: dotai-testimonial-reels
 description: "Create or revise a DotAI student/customer testimonial Reel from real speech and workflow proof. Use for AI Builder 畢業生分享、客戶好評精華、跟 Edmond 案例剪片, including source pairing, captions, HTML animation, sound and a reusable save package. Website case galleries and social publishing use their own workflows."
 ---
 
-# AI Builder 客戶好評 Reels
+# reels 好評剪輯 Skill
 
 將真實分享剪成「觀眾睇得明工作點樣轉變」嘅影片。沿用同一 Project、原 Task、既有 owner；此 Skill 統籌選材至封存，各階段沿現有製作方法。
 

@@ -8,3 +8,5 @@
 - 新機自動觸發／實際渲染／原聲逐字聽校本輪沒有執行。
 - 原片、截圖、字體、Logo、音軌、SFX、秘密及完整公司 Vault 沒有上載。
 - 私人 GitHub 快照更新採 branch → 引用／hash檢查 → PR → Jimmy審閱；不自動改成公開 repo。
+
+2026-10-06 名稱修訂：顯示名稱及文件標題統一為「reels 好評剪輯 Skill」；內部 name `dotai-testimonial-reels`、剪輯方法與 Edmond v27 參照保持。依 Jimmy 明確批准將此版本合併入 main。
