@@ -1,61 +1,46 @@
-# 客戶好評工作流 Reels｜Edmond case reuse
+# 好評 Reels｜視覺與製作方法
 
-Use only for a real student/customer testimonial where the requested treatment is **「AI Builder客戶好評」「跟Edmond嗰條」「testimony + real workflow proof」**. This is a case-derived production recipe, not a fourth company platform Style or a new promise about course results.
+## 故事與節奏
 
-## Resume the approved case
+以真實原聲開場，接可見作品、工作角色轉變、具體流程及下一步。人物身份先出現，主要數字動畫稍後接上，避免同時爭焦點。
 
-Read the selected case's `PROJECT.md`, latest final timeline/preset, original Task approval, and frozen source. Edmond baseline: the authorised original case Project (latest baseline; locate it on your own host, see [case entry](edmond-case.md)). A request to reuse an approved existing cut does not require asking Jimmy to approve the same decisions again. New footage, speakers, words or CTA still need their own storyboard/content scope; preserve the standard phase ownership.
+數字動態可以用時間方塊減少或成果頁數增加，但數字必須出自來源。動畫比較與编辑標題不能當逐字引用。沒有可核數字便用實際 Before／After。
 
-The Project holds exact source timecodes, title wording, claims, audio levels and render files. Do not put Edmond's speech, business figures or screenshots into another customer's case. Start from the saved current source and remake command; do not run every historical build script from v1.
+作品要看得清楚：多視角先完整展示，提案和報價給閱讀時間。先證明成果，再講「AI準備、人作判斷」。流程列顯示輸入、主要步驟、輸出與人工覆核，不把不同項目接成一次全自動完成。
 
-## Story and rhythm
+## 版面與焦點
 
-A useful arc for this approved treatment:
+- 深藍底、白字及官方品牌素材；主標最突出，系列文字較輕。
+- 真實螢幕上、真人下；說話 Hook 可放大人物，流程證明回到螢幕。
+- 完整字幕有固定位置，選擇少量關鍵字加藍色粗體。
+- 全真人數字 Hook：字幕在完整數字／標籤動畫組上方，整組縮放或移位，不拆散或省略字幕。
+- Logo 配短標籤，只在相關時刻由左右滑入；不要遮眼、口、下巴或重點作品。
+- 來源標籤貼作品邊緣，避免再加一層大標題。
+- 實際平台按鈕和字幕長度會影響排位；示例座標不是所有影片的安全區規則。
 
-**Original spoken Hook + speaker identity → visible output → working-role change → concrete Skill steps → broader company use → final reusable output + CTA.**
+## 動態與混音
 
-- Identity appears in the opening: programme/cohort + name; on chest or another clear region, not over mouth. Exit before the main stat animation so they do not compete.
-- Numbers animate the actual comparison (for example ten time blocks reduce to one, output pages multiply). Use numbers only when the named speaker actually said them, with source/context; a title is editorial copy, not a quote.
-- The opening shows a readable set of outputs. Multi-view 3D stays a complete gallery; hand sketch and digital plan are visibly different. Give the actual scrolling Proposal/PPT and Excel quote enough time to understand.
-- Let “Doer → Checker” follow proof, then show what the first Skill does. The benefit is time for judgment/client work, rather than unexplained “待確認” text.
-- A Skill/workflow rail connects several steps above the proof video. Use concrete labels like AI圖則／AI報價／AI設計3D／AI製PPT／Company OS／AI覆核／AI圖文. Do not imply every illustrated output came from one uninterrupted automated run.
-- Keep Company OS speech/captions when selected. Put the IG/content reuse example last if that is the approved story; show the actual generated result, not an unsupported “published” state.
-- Whole-cut speed and frame budget must be explicit. Edmond uses 1.1 global, ≤90s; this is a case setting, not mandatory for all testimonials. Pitch-preserve audio and transform captions, motion and SFX once.
+動態以「出現 → 留時間閱讀 → 收起」為主，不持續彈跳。時間線按指定時間可重現，支援預覽跳轉；減少動畫模式保持資訊可讀。
 
-## Layout and focus
+原聲優先，底樂保持低音量。Hit對準重要出場，Whoosh對準左右滑入，Counter配數字變化。聽同一段實際混音調整，保存裁切、時間、音量、EQ及淡入淡出。不要把一份影片的設定當通用响度標準。
 
-- Deep navy, official white DotAI logo, persistent darkened programme photos where approved. Main value title has greatest weight; thin white series label right, logo left. Supporting text does not all glow.
-- Screen/output is large in the upper region; speaker stays large in the lower region. During a spoken Hook or judgment beat, temporarily enlarge the speaker; during proof, return to the real playing screen.
-- One middle caption strip between picture regions. Use full speech captions and selective cyan/blue bold highlights; do not duplicate them with giant paragraph callouts or decorative cards over the face.
-- For a full-speaker numerical Hook, retain the spoken captions in a dedicated lane above the complete number/label/icon animation group. Move or scale the whole group together; do not split the time blocks/PPT pages with the caption, and do not omit captions just to make room. Test each caption against the final sped-up video; the middle strip remains for the main split-screen scenes. Exact y/scale values belong to the case preset.
-- Different tools get recognisable different icons. A large logo with a short label can slide from either side of the speaker only when that tool/output is being discussed. Do not show PPT/Excel icons arbitrarily throughout the opening.
-- Genuine source labels belong on the proof image edge, not as another header. One primary title, a short workflow rail, and one focal animation is enough.
-- Blue glow belongs to selected key words/numbers, CTA keyword and graduate label when approved. Dark shadow/gradient keeps contrast without making every text element luminous.
-- Adapt the frozen composition's geometry to the case; verify full face/chin, readable proposal and before/after. Full-width proof and the Edmond footer near y1610 are approved local framing, not a new generic safe-area rule. For publication, check actual platform UI coverage and the normal Skill safe areas.
+加速須保音高，字幕、動態及音效只換算一次。音效修訂保留畫面、視覺修訂保留聲軌；只改短段時可單獨渲染後接回，但必須核對接點、時間及完整解碼。
 
-## Animation and sound
+## 常見問題
 
-Follow `build → breathe → resolve`: identity first, numerical comparison second; left/right entrances explain grouping, no continuous bouncing. Retain readable final states and reduce-motion alternatives.
+1. 檔名日期不等於同步；用共同事件／聲音及保存的時間偏移。
+2. 原片、章節及剪後時間分開記，不同錄影可能使用不同時鐘。
+3. ASR可能加出未講過的句子；聽較長上下文並核人物。
+4. 不用另一段不相符的口形配目前原聲；可用真實作品B-roll補畫面。
+5. 先確認展示的是甚麼工具，再加標籤；跨項目成果要明示。
+6. 字幕新增後檢查中文字體，避免缺字。
+7. HTML內影片与父容器不要有衝突的時間設定；檢查實際輸出影格。
+8. 音訊比較先統一採樣率、聲道及速度，避免誤判。
 
-A clean low background bed supports original speech. Place restrained Hit/Whoosh/Counter at actual visual changes; tune the Hook hit by listening, not by multiplying all sound levels. Preserve voice; duck only added SFX when speech overlaps. Store source trims, event times, gain/EQ/fades and the mixed reference. Edmond’s exact three Hook SFX plus 23 main events are in its ledger; source peak settings are not universal loudness targets.
+## 保存與驗證
 
-Audio-only revisions preserve video packets. Visual-only revisions preserve the approved AAC. Small Hook/ending revisions render only that short composition and splice into the locked master. A final full-speed file plays at 1.0 in review so it is not sped up twice.
+保存來源切點、同步對照、HTML／CSS／動畫、字體、精選媒體、聲音分軌、最終混音、SRT與實際工具版本。用相對路徑寫重做指令，清楚標示最新版及原長片範圍。
 
-## Production traps learned from this case
+核對依賴、hash、代表狀態、MP4解碼、尺寸、时長、frame數、聲音與字幕。重做包在另一目錄試執行；中斷時先核已完成輸出，再續做缺少部分。
 
-1. Align real screen and camera using common events/audio and a saved mapping. Filename date/creation time is not synchronization. Keep equal-length A speaker-with-audio / B silent screen with the same ID and timebase.
-2. Keep original master time, chapter-relative time and final-cut time distinct. Extra class/demo recordings and another camera transcript may use a different clock.
-3. Quiet short Cantonese ASR can hallucinate a stock sign-off. Inspect a longer source window, prior captions and speaker; label uncertainty rather than inventing a testimonial.
-4. Never use an unrelated lip-sync take as the current speech. A covered face can be covered by genuine output B-roll while preserving the actual voice.
-5. Do not call Asana/custom dashboard “Notion” just because an early request described it that way; inspect the source. Multiple projects in a montage are illustrative outputs, not proof of one project completing all stages.
-6. Captions need complete CJK glyph coverage after additions, including names and Company OS. Regenerate subsets before rendering.
-7. Use seek-safe deterministic timelines. Only the actual timed media carries the timing contract; avoid a timed video inside a conflicting timed wrapper. Check mounted sub-compositions and decoded final frames, not only the Studio page.
-8. Compare sound using the same sample rate/channel layout and speed transform. A mono16k comparison to stereo48k can create a false failure.
-
-## Save and verify
-
-Save current HTML/CSS/GSAP, font subsets, all media dependencies as regular files, voice/music/SFX stems, final audio, SRT, source/edit-time mapping, exact CLI version and a relative-path rebuild command. Older notes/scripts remain history; label the current baseline unambiguously. Keep large original recordings at the existing source location; record the boundary between self-contained selected footage and raw-source recovery.
-
-Check dependency closure/hash, pinned project check, representative frozen states, actual rendered dimensions/duration/frame count, audio and caption timing. After a splice, confirm unchanged sound/other segment where applicable. Test the saved kit from a different directory. For a render interruption, keep completed picture outputs, verify dimensions/frame counts, and resume only the missing segment; check temporary-disk space before rerendering. Report file-save, code-check, real rebuild and human listening separately. Record the bounded Skill improvement and approval in the original Task; do not create a second candidate queue.
-
-Case-specific claims and human listening gaps stay in that Project. Source-specific 1/10, output multiples, same-day Closing, or IG publishing must not become a general course guarantee. This recipe is for local production/reuse and does not authorize release.
+「檔案保存、程式檢查、實際重建、逐字聽校、成片驗收」分開報告。作品生成不等於已發布，技術檢查不等於結果保證。

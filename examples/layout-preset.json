@@ -1,0 +1,60 @@
+{
+  "kind": "illustrative-layout-template",
+  "canvas": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "target_seconds": 90,
+  "global_speed": 1.0,
+  "colour": {
+    "navy": "#03131F",
+    "white": "#F7FBFF",
+    "highlight": "#56BAFF"
+  },
+  "layout": {
+    "logo": [
+      72,
+      76,
+      200
+    ],
+    "series": [
+      510,
+      72,
+      498
+    ],
+    "title_top": 234,
+    "workflow_rail_top": 340,
+    "screen": [
+      0,
+      410,
+      1080,
+      640
+    ],
+    "caption": [
+      0,
+      1050,
+      1080,
+      88
+    ],
+    "guest": [
+      0,
+      1138,
+      1080,
+      470
+    ],
+    "footer_top": 1610
+  },
+  "identity": {
+    "lines": [
+      "分享背景",
+      "人物身份",
+      "人物姓名"
+    ]
+  },
+  "notes": [
+    "示例座標，未經影片渲染驗收。",
+    "按人物、字幕長度、作品比例及實際平台介面重新調整。",
+    "先核來源是否已加速，避免重複加速。"
+  ]
+}
