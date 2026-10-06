@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sources": {
+    "master": {"path": "media/voice.mp4"},
+    "speaker": {"path": "media/camera.mp4", "offset": 0},
+    "screen": {"path": "media/screen.mp4", "offset": 0}
+  },
+  "transcript": "transcript.json",
+  "fps": 30,
+  "speed": 1.0,
+  "max_seconds": 90,
+  "speaker_name": "",
+  "brand": {"name": "DotAI", "series": "AI Agent 工作流"},
+  "series": "畢業生分享",
+  "steps": ["準備資料", "AI 初稿", "人工覆核", "成果交付"],
+  "cta": "",
+  "auto_music": true,
+  "auto_sfx": true,
+  "segments": [
+    {"start": 0, "end": 5, "layout": "speaker", "title": "填入來源支持的 Hook 標題", "step": 0},
+    {"start": 20, "end": 28, "layout": "split", "title": "填入實際工作轉變", "step": 2,
+      "callouts": [
+        {"at": 0.4, "duration": 2.0, "side": "left", "icon": "slides", "text": "提案"},
+        {"at": 0.5, "duration": 2.0, "side": "right", "icon": "sheet", "text": "報價單"}
+      ]}
+  ]
+}

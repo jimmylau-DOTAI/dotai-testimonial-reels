@@ -10,3 +10,8 @@ renders/
 *.wav
 client.json
 token.json
+.runtime/
+.demo/
+.work/
+output/
+*.partial.mp4
