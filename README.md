@@ -1,4 +1,4 @@
-# IG Reels 好評剪輯｜DotAI
+# reels 好評剪輯 Skill
 
 將學生／客戶真實分享，剪成睇得見工作轉變嘅 Reels。參照 Edmond Wong 案例，保留真人原聲、作品影片、完整字幕、HTML 動畫同音效節奏。
 

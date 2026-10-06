@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+.env
+.env.*
+node_modules/
+renders/
+*.mp4
+*.mov
+*.mp3
+*.wav
+client.json
+token.json

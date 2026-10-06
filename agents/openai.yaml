@@ -1,0 +1,4 @@
+interface:
+  display_name: "reels 好評剪輯 Skill"
+  short_description: "將學生真實分享與作品，剪成可重做的精華影片；保留字幕、流程、動畫及音效"
+  default_prompt: "用 $dotai-testimonial-reels，跟 Edmond 客戶好評案例，將今次學生的原片剪成一條 90 秒精華。"
